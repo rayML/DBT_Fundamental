@@ -1,4 +1,4 @@
-{% docs customers %}
+{% docs dim_customers %}
 
 One record per customer.
 
